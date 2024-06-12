@@ -1,0 +1,35 @@
+
+.row {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+  }
+  
+  .col-md-4 {
+    width: 330px;
+  }
+  .section-heading{
+    color: black;
+    padding-bottom: 30px;
+    font-size: 32px;
+  }
+  .row .col-md-4 {
+    text-align: center;
+  }
+  
+  .figure-caption {
+    font-size: 18px;
+    color: black;
+    font-weight: 600;
+    padding-top: 10px;
+  }
+  .book-table-btn {
+    background-color: black;
+    color: white;
+    padding: 7px 30px;
+    font-size: 15px;
+    border: none;
+    margin-bottom: 20px;
+    cursor: pointer;
+    margin-top: 20px;
+  }

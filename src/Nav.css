@@ -1,0 +1,35 @@
+body {
+   
+    background-image: url('coffeecup.jpg');
+    background-size: cover;
+   
+  }
+  
+nav {
+    background-color: rgba(0, 0, 0, 0.103);
+    padding: 20px;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  li {
+    margin-right: 70px;
+
+  }
+  
+  a {
+    text-decoration: none;
+    color: white;
+   
+  }
+  
+  a:hover {
+    color: #ffcc00; /* Change the color on hover to your preference */
+  }
+  

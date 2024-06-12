@@ -1,0 +1,57 @@
+.main-section {
+    padding: 100px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+  
+    
+   
+  }
+  
+  .flex-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  .section-title {
+    color: black;
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 50px;
+    margin-right: 250px;
+  }
+  
+  .section-text {
+    font-size: 18px;
+    line-height: 1.9em;
+    margin-bottom: 30px;
+    font-weight:lighter;
+    color: #333333cb;
+    
+    
+    
+  }
+ 
+  .read-more-button {
+    display: inline-block;
+    padding: 7px 30px;
+    font-size: 16px;
+    text-decoration: none;
+    background-color: black;
+    color: #ffffff; 
+    border-radius: 1px;
+  }
+  .read-more-button:hover{
+    background-color: rgb(255, 196, 0);
+  }
+  
+  .content-section {
+    width: 35%;
+ 
+  }
+  
+  .google-map-section {
+    width: 60%;
+    height: 90vh; 
+  }
+ 
+  

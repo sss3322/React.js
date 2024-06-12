@@ -1,0 +1,48 @@
+
+ 
+  .centered-text {
+    text-align: center;
+    
+   
+  }
+ 
+  
+  .centered-text h2 {
+    font-size: 60px;
+    color: black;
+    margin-top: 70px;
+  }
+  
+  .centered-text h1 {
+    font-size: 165px;
+    line-height: 1.2em;
+    color: black;
+    font-weight: 700;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+   
+  }
+  
+  .delivery-button,
+  .pickup-button {
+    text-decoration: none;
+    padding: 20px 40px;
+    background-color: transparent;
+    color: white;
+    font-size: 25px;
+    border-radius: 20px;
+    border: 1px solid white;
+    cursor: pointer;
+    margin: 0 10px; 
+  }
+  
+  .delivery-button:hover,
+  .pickup-button:hover {
+    background-color: rgb(255, 179, 0);
+  }
+  
+  
